@@ -1,0 +1,37 @@
+{
+	"labelsInput": {
+		"newFriendUA": "New Friend(In Ukrainian)",
+		"newFriendEN": "New Friend(In English)",
+		"newPresentUA": "New Present(In Ukrainian)",
+		"newPresentEN": "New Present(In English)",
+		"friend": "Friend",
+		"present": "Present"
+	},
+	"buttonActions": {
+		"buttonDelete": "Delete",
+		"buttonAdd": "Add"
+	},
+	"greeting": {
+		"greetingTitle": "Welcome to the Saint Mykolai residence!",
+		"greetingSubTitle": "Here you can choose the presents for you homies🤙"
+	},
+	"menu": {
+		"home": "Home",
+		"friends": "Friends",
+		"presents": "Presents",
+		"presentsDistribution": "Distribution of the presents"
+	},
+	"titles": {
+		"friendsTitle": "Friends List",
+		"presentsTitle": "Presents List",
+		"distributionTitle": "Presents distribution"
+	},
+	"languages": {
+		"currentLanguage": "current language",
+		"language": "English"
+	},
+	"errors": {
+		"invalidAssignmentError": "You must choose the friend and the present to make an assignment",
+		"invalidAddError": "Both inputs are required"
+	}
+}
